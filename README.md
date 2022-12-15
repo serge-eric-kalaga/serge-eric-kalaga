@@ -98,6 +98,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/serge-eric-kalaga/serge-eric-kalaga/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/YOUR_USERNAME/serge-eric-kalaga/blob/output/github-contribution-grid-snake.gif)
+
 
 ###
