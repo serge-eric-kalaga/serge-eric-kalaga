@@ -98,7 +98,7 @@
 
 ###
 
-![snake gif](https://github.com/YOUR_USERNAME/serge-eric-kalaga/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/serge-eric-kalaga/serge-eric-kalaga/blob/output/github-contribution-grid-snake.gif)
 
 
 ###
