@@ -98,7 +98,7 @@ Most active GitHub users in Burkina Faso, my rank
 
 ###
 
-[![committers.top badge](https://user-badge.committers.top/burkina_faso_private/USERNAME.svg)](https://user-badge.committers.top/burkina_faso_private/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/burkina_faso_private/serge-eric-kalaga.svg)](https://user-badge.committers.top/burkina_faso_private/serge-eric-kalaga)
 
 ###
 
