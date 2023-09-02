@@ -94,7 +94,7 @@
 
 ###
 
-<h3 align="left">  Most active GitHub users in Burkina Faso, my rank </h3>
+<h3 align="left">  My ranking of the most active GitHub users in Burkina Faso </h3>
 
 ###
 
