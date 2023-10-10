@@ -72,7 +72,7 @@
 <h3 align="left">Coding time statistics</h3>
 
 ###
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=serge-eric-kalaga)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sergeerickalaga)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
 
