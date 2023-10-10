@@ -69,6 +69,13 @@
 
 ###
 
+<h3 align="left">Coding time statistics</h3>
+
+###
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=serge-eric-kalaga)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+
 <h3 align="left">You can reach me here :</h3>
 
 ###
