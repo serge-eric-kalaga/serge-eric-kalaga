@@ -1,32 +1,76 @@
+<!--
+<h2 align="center">
+  Welcome to Boubakar PI World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+-->
+
+<!--
+<p align="center">
+  <a href="https://github.com/serge-eric-kalaga"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+ -->
+
+<a href="https://komarev.com/ghpvc/?username=serge-eric-kalaga">
+  <img align="right" src="https://komarev.com/ghpvc/?username=serge-eric-kalaga&label=Visitors&color=0e75b6&style=flat" alt="Profile Visitor" />
+</a>
+
+
+<!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://www.linkedin.com/in/serge-eric-kalaga-6436b4227/">Serge Eric KALAGA</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=serge+eric+kalaga">「 Google Me 」</a>
+    <br>
+    「 I am a passionate full-stack developer from <b>Burkina Faso</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
 <div align="center">
   <img height="200" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"  />
 </div>
 
 ###
+<center>
 
-<h2 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">! My name is Serge Eric and I'm a passionate Backend developper, from Burkina Faso</h2>
-
-###
-
-<p align="left"></p>
+<h3 align="center">You can reach me here :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&username=serge-eric-kalaga" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&username=serge-eric-kalaga" height="150" alt="languages graph"  />
+  <a href="kalagaserge4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/serge-eric-kalaga-6436b4227/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/14742073/kalaga-serge-eric" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://wa.me/22651770628?text=Hi%20!%20I%20contact%20you%20from%20Github." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
+</center>
+
+<br/>
+<br/>
+
+<!-- About Section -->
 ###
-
-<p align="left"></p>
-
-###
-
 <h3 align="left">My tools and programming languages</h3>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="62" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="62" alt="react logo"  />
@@ -63,34 +107,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="50" width="62" alt="ssh logo"  />
 </div>
 
-###
+<br/>
+<br/>
 
-<p align="left"></p>
+<!-- ## Top Open Source -
+[![serge-eric-kalaga Readme](https://github-readme-stats.vercel.app/api/pin/?username=serge-eric-kalaga&repo=serge-eric-kalaga&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/serge-eric-kalaga/serge-eric-kalaga) -->
 
-###
-
-<h3 align="left">You can reach me here :</h3>
-
-###
-
-<div align="left">
-  <a href="kalagaserge4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/serge-eric-kalaga-6436b4227/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/14742073/kalaga-serge-eric" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://wa.me/22651770628?text=Hi%20!%20I%20contact%20you%20from%20Github." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<p align="left"></p>
 
 ###
 
@@ -102,13 +124,33 @@
 
 ###
 
-<h3 align="left">My commits on "Github"</h3>
+<p align="left">
+  <a href="https://github.com/serge-eric-kalaga?tab=repositories" target="_blank"><img alt="All Repositories" title="My publics repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
-###
+<br/>
+<hr/>
+<br/>
 
-![snake gif](https://github.com/serge-eric-kalaga/serge-eric-kalaga/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <a href="https://github.com/serge-eric-kalaga">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=serge-eric-kalaga&theme=radical&border=7F3FBF&background=0D1117" alt="Boubakar's GitHub streak"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/serge-eric-kalaga">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=serge-eric-kalaga&theme=radical" alt="Boubakar's GitHub Contribution"/>
+  </a>
+</p>
 
-###
+<a> 
+    <a href="https://github.com/serge-eric-kalaga"><img alt="Boubakar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=serge-eric-kalaga&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/serge-eric-kalaga"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=serge-eric-kalaga&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
+<br>
+<br>
 
+![Boubakar PI's Graph](https://github-readme-activity-graph.vercel.app/graph?username=serge-eric-kalaga&custom_title=Boubakar%20PI's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
