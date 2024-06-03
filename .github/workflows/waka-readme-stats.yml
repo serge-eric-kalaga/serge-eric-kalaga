@@ -2,9 +2,9 @@ name: Waka Readme Stats
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     pull_request:
-      branches: [main]
+      branches: [master]
   schedule:
     - cron: '0 0 * * *'
 
