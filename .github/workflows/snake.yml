@@ -1,7 +1,7 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.2.0
-            
+- name: generate-snake-game-from-github-contribution-grid              
+  uses: Platane/snk@v3.0.0
 
+  
 
 
 # name: Generate snake animation
