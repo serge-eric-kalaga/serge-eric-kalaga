@@ -160,5 +160,10 @@
 
 <br> <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br> <br>
+
 ![snake gif](https://github.com/serge-eric-kalaga/serge-eric-kalaga/blob/output/github-snake-dark.svg)
 
