@@ -158,7 +158,6 @@
 ![Serge's Graph](https://github-readme-activity-graph.vercel.app/graph?username=serge-eric-kalaga&custom_title=Serge's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
-<br> <br>
 
 <!--START_SECTION:waka-->
 
@@ -172,7 +171,6 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<br> <br>
 
 ![snake gif](https://github.com/serge-eric-kalaga/serge-eric-kalaga/blob/output/github-snake-dark.svg)
 
