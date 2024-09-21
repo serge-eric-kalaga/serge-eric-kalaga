@@ -162,8 +162,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 16 mins    █████████████████▓░░░░░░░   70.21 %
-Docker   32 mins         ███████▒░░░░░░░░░░░░░░░░░   29.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
