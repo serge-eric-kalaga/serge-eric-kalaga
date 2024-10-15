@@ -159,6 +159,9 @@
 
 <br>
 
+###
+<h3 align="left">📊 My Coding Time Breakdown (WakaTime)</h3>
+
 <!--START_SECTION:waka-->
 
 ```txt
