@@ -167,11 +167,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python            8 hrs 50 mins   ████████████▓░░░░░░░░░░░░   50.92 %
-Dart              3 hrs 39 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
-Java Properties   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Properties        52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Groovy            51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Python                     8 hrs 15 mins   ████████████▒░░░░░░░░░░░░   49.23 %
+Dart                       3 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
+Java Properties            1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Properties                 52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Groovy                     51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka-->
