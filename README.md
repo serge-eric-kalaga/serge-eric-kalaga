@@ -68,7 +68,7 @@
 </center>
 
 <br/>
-<br/>
+<br/> <hr/>
 
 <!-- About Section -->
 ###
@@ -114,7 +114,7 @@
 
 <!-- ## Top Open Source -
 [![serge-eric-kalaga Readme](https://github-readme-stats.vercel.app/api/pin/?username=serge-eric-kalaga&repo=serge-eric-kalaga&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/serge-eric-kalaga/serge-eric-kalaga) -->
-
+<hr/>
 
 ###
 
@@ -158,7 +158,7 @@
 
 ![Serge's Graph](https://github-readme-activity-graph.vercel.app/graph?username=serge-eric-kalaga&custom_title=Serge's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<br>
+<br/><hr/>
 
 ###
 <h3 align="left">📊 Daily Breakdown of My Coding Time on 'WakaTime'</h3>
