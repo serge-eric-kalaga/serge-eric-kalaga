@@ -132,9 +132,6 @@
 
 <br/>
 <hr/>
-![Python Animation](https://github.com/serge-eric-kalaga/serge-eric-kalaga/blob/main/media/Animation_vs_Coding.gif)
-<hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/serge-eric-kalaga">
