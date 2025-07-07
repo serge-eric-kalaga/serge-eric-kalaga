@@ -165,16 +165,8 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-Other         25 hrs 4 mins   ████████████████████░░░░░   79.38 %
-Python        2 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-HTML          1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-YAML          52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Image (svg)   37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-```
-
 <!--END_SECTION:waka-->
 
 
-![snake gif](https://github.com/serge-eric-kalaga/serge-eric-kalaga/blob/output/github-snake-dark.svg)
+<!-- ![snake gif](https://github.com/serge-eric-kalaga/serge-eric-kalaga/blob/output/github-snake-dark.svg) -->
 
