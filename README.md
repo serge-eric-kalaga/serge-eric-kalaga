@@ -1,16 +1,6 @@
-<!--
-<h2 align="center">
-  Welcome to Boubakar PI World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
+# 👋 Welcome to Serge Eric World !
 
-<!--
-<p align="center">
-  <a href="https://github.com/serge-eric-kalaga"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Self+Taught+Programmer;Back+End+Developer;3%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45)](https://github.com/serge-eric-kalaga)
 
 <a href="https://komarev.com/ghpvc/?username=serge-eric-kalaga">
   <img align="right" src="https://komarev.com/ghpvc/?username=serge-eric-kalaga&label=Visitors&color=0e75b6&style=flat" alt="Profile Visitor" />
