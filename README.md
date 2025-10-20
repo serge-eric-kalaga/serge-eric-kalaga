@@ -146,7 +146,7 @@
 
 ###
 <div align="center"  height="200" width="400">
-  <img style="width:100%; height:auto; display:block;" src="https://github.com/serge-eric-kalaga/serge-eric-kalaga/blob/main/profile-3d-contrib/profile-night-green.svg"  />
+  <img style="width:100%; height:auto; display:block;" src="https://github.com/serge-eric-kalaga/serge-eric-kalaga/blob/main/profile-3d-contrib/profile-night-rainbow.svg"  />
 </div>
 
 <br>
