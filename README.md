@@ -143,8 +143,13 @@
 </a>
 
 <br>
-<br>
 
+###
+<div align="center"  height="200" width="400">
+  <img style="width:100%; height:auto; display:block;" src="https://github.com/serge-eric-kalaga/serge-eric-kalaga/blob/main/profile-3d-contrib/profile-night-green.svg"  />
+</div>
+
+<br>
 
 ![Serge's Graph](https://github-readme-activity-graph.vercel.app/graph?username=serge-eric-kalaga&custom_title=Serge's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
