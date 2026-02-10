@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sege%20Eric%20KALAGA&fontSize=50&textBg=false&section=header&reversal=false&fontAlign=50&animation=scaleIn&fontColor=F5B027" width="100%" alt="header"/>
+</p>
+
 # 👋 Welcome to Serge Eric World !
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Self+Taught+Programmer;Back+End+Developer;3%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45)](https://github.com/serge-eric-kalaga)
@@ -153,5 +157,7 @@
 
 ![Serge's Graph](https://github-readme-activity-graph.vercel.app/graph?username=serge-eric-kalaga&custom_title=Serge's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Good%20Bye&fontSize=50&textBg=false&section=footer&reversal=false&fontAlign=50&animation=blink" width="100%" alt="header"/>
+</p>
 
