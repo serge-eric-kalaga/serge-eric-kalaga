@@ -158,6 +158,6 @@
 ![Serge's Graph](https://github-readme-activity-graph.vercel.app/graph?username=serge-eric-kalaga&custom_title=Serge's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Good%20Bye&fontSize=50&textBg=false&section=footer&reversal=false&fontAlign=50&animation=blink" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Good%20Bye%20👋&fontSize=50&textBg=false&section=footer&reversal=false&fontAlign=50&animation=blink" width="100%" alt="header"/>
 </p>
 
