@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Self+Taught+Programmer;Back+End+Developer;3%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45)](https://github.com/serge-eric-kalaga)
 
 <a href="https://komarev.com/ghpvc/?username=serge-eric-kalaga&abbreviated=true&color=yellow">
-  <img align="right" src="https://komarev.com/ghpvc/?username=serge-eric-kalaga&label=Visitors&color=0e75b6&style=flat" alt="Profile Visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=serge-eric-kalaga&label=Visitors&color=yellow&style=flat" alt="Profile Visitor" />
 </a>
 
 
